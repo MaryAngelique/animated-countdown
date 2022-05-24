@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Animated Countdown GitHub Solution](https://github.com/MaryAngelique/animated-countdown)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
