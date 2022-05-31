@@ -32,8 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Animated Countdown GitHub Solution](https://github.com/MaryAngelique/animated-countdown)
-- Live Site URL: [ Website](Deployed website)
-
+- Live Site URL: [Animated Countdown Website](https://animated-countdown-alpha.vercel.app/)
 ## My process
 
 ### Built with
